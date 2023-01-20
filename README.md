@@ -1,2 +1,4 @@
 # BBHW
-Brewery Branding's Coding assignment,
+Brewery Branding's Coding assignment.
+
+Using Bootstrap and Font Awesome.
